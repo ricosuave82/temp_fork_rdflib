@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: rdflib-web
+Version: 0.1.dev20210812
+Summary: RDFLib Web Apps.
+Home-page: https://github.com/RDFLib/rdflib-web
+Author: Gunnar Aastrand Grimnes
+Author-email: gromgull@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: any
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Operating System :: OS Independent
